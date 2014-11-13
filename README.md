@@ -15,4 +15,4 @@ Current Priorities:
 ![island WIP](https://hostr.co/file/U41X6zH25zOq/island.png)
 
 Completed Priorities:
-- ~~ Create island shape ~~
+- ~~Create island shape~~
