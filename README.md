@@ -12,7 +12,7 @@ Current Priorities:
 - Create apartment shape on island
 - Create town hall shape on island
 
-![island WIP](https://hostr.co/file/U41X6zH25zOq/island.png)
+![island WIP](https://hostr.co/file/TM0ii4ukezqc/tinylife.png)
 
 Completed Priorities:
 - ~~Create island shape~~
